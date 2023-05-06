@@ -10,7 +10,7 @@ Inspired by the theory of conceptual primitives, PrimeNet is constructed by comp
   <img src="/fig/overall.png" width="700" />
 </p>
 
-## Use Cases
+## Case Study
 Primitives are organized in a multi-level hierarchy that allows to iteratively generalize words and multiword expressions into increasingly general primitives. Top-level primitives (aka superprimitives) are then defined by means of first-order logic.
 <p float="left">
   <img src="/fig/primitive.png" width="500" />
