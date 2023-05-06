@@ -124,3 +124,4 @@ graph.get_similarity(node1="hammer",node2="brick",relation="Afford")
 graph.add_node("a_new_node")
 graph.add_edge(("a_new_node", "isA","testing_example"))
 ```
+
