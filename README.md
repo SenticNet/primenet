@@ -5,37 +5,33 @@
 ## Overview
 
 PrimeNet is a scalable, generalizable knowledge base which enables effective commonsense and real-world knowledge representation and facilitates commonsense reasoning including inferences.
+<p float="center">
+  <img src="/fig/overall.png" width="700" />
+</p>
 
 Inspired by the theory of conceptual primitives, PrimeNet is constructed by comprising a small core of primitive commonsense concepts and relations, linked to a much more extensive base of factual knowledge instances.
 
 ## Use Cases
 Primitives are organized in a multi-level hierarchy that allows to iteratively generalize words and multiword expressions into increasingly general primitives. Top-level primitives (aka superprimitives) are then defined by means of first-order logic.
+<p float="left">
+  <img src="/fig/primitive.png" width="500" />
+</p>
 
 More cases on primitive generalization:
+<p float="left">
+  <img src="/fig/case1.png" width="300" />
+  <img src="/fig/case2.png" width="300" /> 
+  <img src="/fig/case3.png" width="300" />
+</p>
+<p float="left">
+  <img src="/fig/case4.png" width="300" />
+  <img src="/fig/case5.png" width="300" /> 
+  <img src="/fig/case6.png" width="300" />
+</p>
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/qianliu0708/PrimeNetV3/blob/main/fig/case1.png?raw=true" alt="case1" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="fig/case2.jpg" alt="case2" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="fig/case3.jpg" alt="case3" style="width:100%">
-  </div>
-</div>
 
-<div class="row">
-  <div class="column">
-    <img src="fig/case4.jpg" alt="case4" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="fig/case5.jpg" alt="case5" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="fig/case6.jpg" alt="case6" style="width:100%">
-  </div>
-</div>
+
+
 
 ## Evaluation
 1. The evaluation of Human Assessment (detailed in Section 4.1) can be reproduced using the facts from PrimeNet V3. Download all facts in PrimeNet V3 from this [link](https://drive.google.com/file/d/1e16lmGdaQ3PP-S4w12S6eAg4h-u_hBeS/view?usp=share_link).
