@@ -18,14 +18,14 @@ Primitives are organized in a multi-level hierarchy that allows to iteratively g
 
 More cases on primitive generalization:
 <p float="left">
-  <img src="/fig/case1.png" width="200" />
-  <img src="/fig/case2.png" width="200" /> 
-  <img src="/fig/case3.png" width="200" />
+  <img src="/fig/case1.png" width="250" />
+  <img src="/fig/case2.png" width="250" /> 
+  <img src="/fig/case3.png" width="250" />
 </p>
 <p float="left">
-  <img src="/fig/case4.png" width="200" />
-  <img src="/fig/case5.png" width="200" /> 
-  <img src="/fig/case6.png" width="200" />
+  <img src="/fig/case4.png" width="250" />
+  <img src="/fig/case5.png" width="250" /> 
+  <img src="/fig/case6.png" width="250" />
 </p>
 
 
