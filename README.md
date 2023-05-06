@@ -120,4 +120,7 @@ graph.get_similarity(node1="hammer",node2="pen",relation="Afford")
 # output: 0.11111
 graph.get_similarity(node1="hammer",node2="brick",relation="Afford")
 # output: 0.66667
+
+graph.add_node("a_new_node")
+graph.add_edge(("a_new_node", "isA","testing_example"))
 ```
