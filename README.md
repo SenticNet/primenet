@@ -15,7 +15,7 @@ More cases on primitive generalization:
 
 <div class="row">
   <div class="column">
-    <img src="fig/case1.jpg" alt="case1" style="width:100%">
+    <img src="https://github.com/qianliu0708/PrimeNetV3/blob/main/fig/case1.png?raw=true" alt="case1" style="width:100%">
   </div>
   <div class="column">
     <img src="fig/case2.jpg" alt="case2" style="width:100%">
