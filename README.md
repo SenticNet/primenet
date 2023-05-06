@@ -66,7 +66,6 @@ More cases on primitive generalization:
 
 ## Functions (PrimeNet SDK)
 In primenet_graph.py, we define over 20 functions to explore PrimeNet.
-
 The input, output, and description of each function is explained on Table 3 in the paper.
 
 We show the examples of using these functions:
