@@ -1,15 +1,14 @@
 
 
 ## PrimeNet: A Framework for Commonsense Knowledge Representation and Reasoning Based on Conceptual Primitives
-
+PrimeNet is a scalable, generalizable knowledge base which enables effective commonsense and real-world knowledge representation and facilitates commonsense reasoning including inferences.
 ## Overview
 
-PrimeNet is a scalable, generalizable knowledge base which enables effective commonsense and real-world knowledge representation and facilitates commonsense reasoning including inferences.
+Inspired by the theory of conceptual primitives, PrimeNet is constructed by comprising a small core of primitive commonsense concepts and relations, linked to a much more extensive base of factual knowledge instances.
+
 <p float="center">
   <img src="/fig/overall.png" width="700" />
 </p>
-
-Inspired by the theory of conceptual primitives, PrimeNet is constructed by comprising a small core of primitive commonsense concepts and relations, linked to a much more extensive base of factual knowledge instances.
 
 ## Use Cases
 Primitives are organized in a multi-level hierarchy that allows to iteratively generalize words and multiword expressions into increasingly general primitives. Top-level primitives (aka superprimitives) are then defined by means of first-order logic.
@@ -57,7 +56,7 @@ More cases on primitive generalization:
 	
 	Example of evaluating on word similarity task:
 		
-		> python eval_wordsim.py refined_vectors/glove.6B.50d.conceptnet.txt
+	> 	python eval_wordsim.py refined_vectors/glove.6B.50d.conceptnet.txt
 	
 	The output is:
 	> 	0.4427091438043214      0.6743373528926029      0.7073685164959393      0.5974265070145617      0.3761684502800549      0.2355190563306831       0.27269399402968747     0.48538634242377177
